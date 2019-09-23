@@ -6,5 +6,6 @@ package com.ancf.demo;
 public class Test2 {
     public static void main(String[] args) {
         System.out.println("HelloWorld");
+        System.out.println(22222);
     }
 }
